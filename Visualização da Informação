@@ -1,0 +1,8 @@
+Trabalho de Visualização da Informação 
+Documentação e Análise Detalhada do Código Python para Análise da COVID-19 no Brasil 
+
+Introdução: 
+
+Este projeto utiliza Python e bibliotecas de visualização e processamento de dados para analisar dados sobre COVID-19 no Brasil. 
+O conjunto de dados “COVID-19 NO BRASIL.xlsx” foi obtido junto ao Ministério da Saúde e contém informações sobre casos, 
+óbitos e taxas de mortalidade. e por estado e região. 
